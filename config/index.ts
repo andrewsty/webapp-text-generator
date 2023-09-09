@@ -1,6 +1,6 @@
 import type { AppInfo } from '@/types/app'
-export const APP_ID = ''
-export const API_KEY = ''
+export const APP_ID = 'da32b40c-cb62-4319-9270-071ab75bf36e'
+export const API_KEY = '<Web API Key From Dify>'
 export const API_URL = ''
 export const APP_INFO: AppInfo = {
   title: 'Text Generator APP',
